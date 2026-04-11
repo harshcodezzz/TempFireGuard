@@ -53,5 +53,5 @@ Components Required:
 4. DHT11 datapin on A0
 ## Support
 
-For support, email harshprakash06@outlook.com richardkonsam@gmail.com.
+
 
